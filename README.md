@@ -7,25 +7,14 @@
  
 ## Objective 1
 ### Prepare the data for analysis
- Explore the coffee shop dataset, conduct some basic data QA and profiling, and add calculated date and time fields to prepare the data for analysis.
- -  Add new columns to calculate the following;
-    - Revenue (Price* Quantity)
-    - Add month and day of the week based on the transaction date
-    - Extract hour from transaction time
+ First objective is to explore the sales pipeline dataset, conduct some basic data QA and profiling, and join it with the sales team table to prepare the data for analysis.
 
 ## Objective 2
 ### Explore the data with Pivot Tables
-The second objective is to slice and dice the coffee shop data with Excel PivotTables, and create views to analyze time series and product-level trends.
-- Pivot tables to show the following;
-  - number of transactions by day of week and hour of day
-  - number of transactions by category sorted descending by transactions
-  - number of transactions by product type sorted descending and filtered to the top 15 transactions
+Second objective is to slice and dice the sales pipeline data with pivot tables, and create views to analyze quarterly trends and sales agent performance.
+Complete
 
 ## Objective 3
 ### Build a dynamic dashboard
- Final objective is to visualize the data with Pivot Charts, design an interactive dashboard, and identify insights and recommendations for the coffee shop.
- - Add Pivot Charts to show revenue by month as a line chart, transactions by day of week and hour of day as column charts, and transactions by product category as a bar chart
- - Add a slicer for store location, and connect it to all of the PivotTables on the sheet
- - Adjust formatting, alignment and polish to finalize the dashboard
-
+Final objective is to visualize the data with charts and add filters to design an interactive dashboard for sales agents to track quarterly performance.
 # Recommendations
